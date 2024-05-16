@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ze
-==========================================================================================================================Aspiring Data Analyst---------------------Here, I document journey to becoming a Junior Data Analyst. I’m passionate about data and its impact on businesses, and I’m excited to share my journey with you.* 🌍  I'm based in London* ✉️  You can contact me at [zehkawngit@gmail.com](mailto:zehkawngit@gmail.com)* 🧠  I'm learning Python, MySQL, PowerBi,* ⚡  I love cycling, I am actively looking for job relating to data analytic
+Aspiring Data AnalystHere, I document journey to becoming a Junior Data Analyst. I’m passionate about data and its impact on businesses, and I’m excited to share my journey with you.* 🌍  I'm based in London* ✉️  You can contact me at [zehkawngit@gmail.com](mailto:zehkawngit@gmail.com)* 🧠  I'm learning Python, MySQL, PowerBi,* ⚡  I love cycling, I am actively looking for job relating to data analytic
 
 ### Skills
 
